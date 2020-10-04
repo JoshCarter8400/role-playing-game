@@ -1,0 +1,22 @@
+{
+  "name": "role-playing-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshCarter8400/role-playing-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshCarter8400/role-playing-game/issues"
+  },
+  "homepage": "https://github.com/JoshCarter8400/role-playing-game#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
